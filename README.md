@@ -6,9 +6,17 @@
 Resurrecting Printrbot Play with modern firmware
 
 
+
+
 <br>  
 
-## Other Projects
+## steps
+
+1.
+https://www.klipper3d.org/Overview.html
+
+https://docs.google.com/document/d/1a2pSCrTU5F4PQF-cdHiCjmBmUJKTg1H6sDxn2OdDtaw/edit
+
 #### Stuff
 Lorem Ipsum
 ```text
